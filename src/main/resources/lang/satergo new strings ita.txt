@@ -1,0 +1,17 @@
+aggiorna=Aggiorna
+skip=Salta
+notNow=Non ora
+aNewUpdateHasBeenFound=È stato trovato un nuovo aggiornamento!
+updateDescription=Versione %s, rilasciata il %s\n\nChangelog:\n%s
+addToken=Aggiungi gettone
+token_s_needsAmount=Il token %s deve avere un importo
+token_s_hasInvalidAmount=Il gettone %s ha un importo non valido
+quantitàHasTooManyDecimals=L'importo ha troppi decimali (max 9)
+feeHasTooManyDecimals=La tariffa ha troppi decimali (max 9)
+youDoNotHaveEnoughErg_s_moreNeeded=Non hai abbastanza ERG (necessario %s in più)
+youDoNotHaveEnoughOf_s=Non ne hai abbastanza di %s
+aNewErgoNodeVersionHasBeenFound=È stata trovata una nuova versione del nodo Ergo!
+nodeUpdateDescription=Versione %s, rilasciata il %s\n\nInformazioni: %s
+updateErgoNode...=Aggiornamento nodo Ergo...
+updateErgoNode=Nodo Ergo aggiornato! Verrà utilizzato al prossimo riavvio di Satergo.
+nodeWasUpdatedToVersion_s_log=NODO È STATO AGGIORNATO ALLA VERSIONE %s
